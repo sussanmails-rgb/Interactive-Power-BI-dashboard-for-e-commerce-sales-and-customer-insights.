@@ -1,0 +1,2 @@
+# Interactive-Power-BI-dashboard-for-e-commerce-sales-and-customer-insights.
+E-Commerce Sales Performance Dashboard (Power BI)  This project presents an interactive Power BI dashboard developed from an e-commerce sales dataset. The analysis focuses on revenue performance, product sales, customer purchasing behaviour, payment preferences, marketing channel effectiveness, and order fulfilment status.
