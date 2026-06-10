@@ -1,2 +1,6 @@
 # Interactive-Power-BI-dashboard-for-e-commerce-sales-and-customer-insights.
 E-Commerce Sales Performance Dashboard (Power BI)  This project presents an interactive Power BI dashboard developed from an e-commerce sales dataset. The analysis focuses on revenue performance, product sales, customer purchasing behaviour, payment preferences, marketing channel effectiveness, and order fulfilment status.
+Tools Used: (a)Power BI; (b)Power Query; (c)DAX
+Key Metrics: (a)Total Revenue: ₦1.52 Billion; (b)Total Orders: 1 Million; (c)Total Quantity Sold: 4 Million; (d)Average Order Value: ₦1.26 Million; (e)Total Customers: 1 Million.
+Key Insights: (a)Printers generated the highest revenue among all product categories; (b)Instagram was the leading referral source, contributing the most revenue; (c)Revenue peaked mid-year before declining towards the end of the period; (d)Customer payment preferences were relatively balanced across payment channels; (e)Order status analysis revealed opportunities to improve fulfilment efficiency and reduce cancellations and returns.
+This dashboard demonstrates skills in data cleaning, data modeling, DAX calculations, business intelligence reporting, and data visualization using Power BI.
